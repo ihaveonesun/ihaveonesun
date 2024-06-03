@@ -1,45 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>GitHub Profile README</title>
-    <style>
-        .container {
-            display: flex;
-            align-items: flex-start;
-        }
-        .text-section {
-            flex: 1;
-            margin-right: 20px;
-        }
-        .image-section {
-            max-width: 480px;
-        }
-        .image-section img {
-            width: 100%;
-            height: auto;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        ul li {
-            margin-bottom: 5px;
-        }
-    </style>
-</head>
 <body>
     <h1>About me</h1>
-    <div class="container">
-        <div class="text-section">
-            <p>👋 Hello, I'm a Python programmer and a Data Science (Bachelor) student. I've spent most of my time on a few private projects.</p>
+    <div style="display: flex; align-items: flex-start;">
+        <div style="flex: 1;">
+            <p>👋 Hello, I'm a Python programmer and a Data Science (Bachelor) student. I've spent most of my time on a few private projects.</p>            
+        </div>
+        <div style="flex: 1;">
+            <img src="https://i.giphy.com/QDjpIL6oNCVZ4qzGs7.webp" width=30%  height=auto style="max-width: 60%; height: auto;" class="giphy-embed" alt="GIF">
+        </div>        
+        <div style="flex: 1;">            
             <p>I have experience in web development, web-scraping, RPA, creation and consumption of APIs, ETL, data analysis and visualization. Precepts of Big Data, BI, ML and DP.</p>
-        </div>
-        <div class="image-section">
-            <img src="https://i.giphy.com/QDjpIL6oNCVZ4qzGs7.webp" alt="Working Penguin">
-        </div>
-    </div>
+        </div>        
+    </div>    
     <h2>🛠️ My Tech Stack</h2>
+    <div style="flex: 1;"> 
     <ul>
         <li>🐍 Python</li>
         <li>🌐 Django</li>
@@ -53,6 +28,7 @@
         <li>🐧 Linux</li>
         <li>🔗 RESTful APIs</li>
     </ul>
+    </div>
 </body>
 </html>
 
