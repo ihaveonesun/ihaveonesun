@@ -1,19 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <h1>About me</h1>
-    <div style="display: flex; align-items: flex-start;">
+    <h1>About me</h1>    
+    </br>
+    <div style="display: flex; align-items: flex-start;">        
+        <div style="flex: 1;">
+            <img src="https://i.giphy.com/QDjpIL6oNCVZ4qzGs7.webp" width=40%  height=auto align="right" style="max-width: 60%; height: auto;" class="giphy-embed" alt="GIF">
+        </div>        
         <div style="flex: 1;">
             <p>👋 Hello, I'm a Python programmer and a Data Science (Bachelor) student. I've spent most of my time on a few private projects.</p>            
         </div>
-        <div style="flex: 1;">
-            <img src="https://i.giphy.com/QDjpIL6oNCVZ4qzGs7.webp" width=25%  height=auto style="max-width: 60%; height: auto;" class="giphy-embed" alt="GIF">
-        </div>        
         <div style="flex: 1;">            
             <p>I have experience in web development, web-scraping, RPA, creation and consumption of APIs, ETL, data analysis and visualization. Precepts of Big Data, BI, ML and DP.</p>
         </div>        
-    </div>    
-    <h2>🛠️ My Tech Stack</h2>
+    </div>
+    <h3>🛠️ My Tech Stack</h3>
     <div style="flex: 1;"> 
     <ul>
         <li>🐍 Python</li>
@@ -29,12 +30,12 @@
         <li>🔗 RESTful APIs</li>
     </ul>
     </div>    
-<p align="center">
-<a href="https://github.com/ihaveonesun">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ihaveonesun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihaveonesun&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+    <p align="center">
+        <a href="https://github.com/ihaveonesun">
+          <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ihaveonesun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+          <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihaveonesun&layout=compact&langs_count=8&theme=algolia"/>
+        </a>
+    </p>
 </body>
 </html>
 
