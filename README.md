@@ -7,7 +7,7 @@
             <p>👋 Hello, I'm a Python programmer and a Data Science (Bachelor) student. I've spent most of my time on a few private projects.</p>            
         </div>
         <div style="flex: 1;">
-            <img src="https://i.giphy.com/QDjpIL6oNCVZ4qzGs7.webp" width=30%  height=auto style="max-width: 60%; height: auto;" class="giphy-embed" alt="GIF">
+            <img src="https://i.giphy.com/QDjpIL6oNCVZ4qzGs7.webp" width=25%  height=auto style="max-width: 60%; height: auto;" class="giphy-embed" alt="GIF">
         </div>        
         <div style="flex: 1;">            
             <p>I have experience in web development, web-scraping, RPA, creation and consumption of APIs, ETL, data analysis and visualization. Precepts of Big Data, BI, ML and DP.</p>
@@ -28,12 +28,11 @@
         <li>🐧 Linux</li>
         <li>🔗 RESTful APIs</li>
     </ul>
-    </div>
-    
+    </div>    
 <p align="center">
 <a href="https://github.com/ihaveonesun">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ihaveonesun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihaveonesun&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ihaveonesun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihaveonesun&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 </body>
